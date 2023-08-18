@@ -1,6 +1,8 @@
 # Queue Processing
 
 A queue processing program using data structures such as Queue and Linked Lists. <br />
+Created as a project at NYU. <br />
+Finished on June 18, 2023. 
 
 ## Folder Structure
 
